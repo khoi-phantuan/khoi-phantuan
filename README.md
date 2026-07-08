@@ -5,8 +5,8 @@ majoring in Computer Networks and Data Communications.
 
 ## 🎓 About me
 - 📍 Ho Chi Minh City, Vietnam
-- 🔭 Currently exploring Networking, Systems & Embedded Systems (IoT)
-- 🌱 Looking for internship opportunities in IT
+- 🔭 Currently exploring Embedded Systems & IoT, heading to a future Embedded Software Engineer (IoT) position.
+- 🌱 Looking for internship opportunities in the corresponding field. 
 
 ## 🛠️ Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
