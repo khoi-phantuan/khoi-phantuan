@@ -4,7 +4,7 @@ majoring in Computer Networks and Data Communications.
 
 ## 🎓 About me
 - 📍 Ho Chi Minh City, Vietnam
-- 🔭 Currently exploring Embedded Systems, IoT, Automation,... Heading to a future IoT Engineer position.
+- 🔭 Currently exploring Embedded Systems & IoT, heading to a future IoT Software Engineer/IoT Application Developer position.
 - 🌱 Looking for internship opportunities in the corresponding field.
 
 ## 🛠️ Technologies & Tools
