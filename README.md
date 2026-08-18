@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** - pursuing **Embedded Systems and IoT** specialization.
+- 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems and IoT** specialization.
 - 🔭 Currently working on: **I2C communication with BMP280 sensor using ESP-IDF environment**.
 - 🌱 Currently learning: 
   - **ESP32's basic communication** and **FreeRTOS** (ESP-IDF): GPIO, LEDC, ADC, etc.
