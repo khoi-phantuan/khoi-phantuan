@@ -63,7 +63,7 @@ This is the big repo consisting of many small projects, where I started to learn
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khoi-phantuan&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com/?user=khoi-phantuan&theme=default" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoi-phantuan" alt="streak stats" />
 </p>
 
 ---
