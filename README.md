@@ -62,8 +62,8 @@ This is the big repo consisting of many small projects, where I started to learn
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-khoi14.vercel.app/api?username=khoi-phantuan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-khoi14.vercel.app/api/top-langs/?username=khoi-phantuan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-khoi14.vercel.app/api?username=khoi-phantuan&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khoi-phantuan" alt="streak stats" />
 </p>
 
 ---
