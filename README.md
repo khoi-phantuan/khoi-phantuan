@@ -16,12 +16,24 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems and IoT** specialization.
-<!-- - 🔭 Currently working on: -->
-- 🌱 Currently self-learning: 
-  - Embedded Programming Fundamentals,
-  - Programming Language: C.
+- 📚 Existing related knowledge:
+  - Academic:
+    - Introduction to Digital Circuit, 
+    - Computer Architecture, 
+    - Operating System, 
+    - Wireless Network Embedded System.
+  - Self-study:
+    - ESP32's peripherals (implementing in ESP-IDF environment): GPIO, LEDC PWM, ADC, Interrupt.
+    - Communication between ESP32 and DHT11.
+- 🌱 Upcoming learning:
+  - Academic:
+    - Computer Architecture Practice, 
+    - Digital Logic Design.
+  - Self-study:
+    - Programming Fundamentals *(learn from the basics)*,
+    - C Programming *(learn from the basics)*,
+    - Getting started with STM32 programming (STM32CubeMX, STM32CubeIDE, SWD/GDB).
 - 🤝 Looking to collaborate on and learn from the experience: Embedded Software / IoT Smart Home / IoT Smart City projects.
-<!-- 💬 Ask me about: ESP32's GPIO, LEDC, ADC, Interrupt. -->
 - 📫 Reach me at: 24520867@gm.uit.edu.vn / https://linkedin.com/in/khoi-phantuan
 
 ---
@@ -32,14 +44,13 @@
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <!-- thêm các badge khác mày dùng -->
 </p>
 
 **Embedded / IoT**
 <p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/FreeRTOS-1abc9c?style=flat">
-  <!-- board/MCU cụ thể mày hay dùng -->
 </p>
 
 **Tools & Platforms**
@@ -55,7 +66,7 @@
 ### 🚀 Featured Projects
 
 **[ESP32-exploration](https://github.com/khoi-phantuan/ESP32-exploration.git)**  
-This is the repo consisting of some small projects, where I started to learn how to immplement some ESP32's peripherals, such as GPIO, LEDC, ADC, etc. in ESP-IDF environment using built-in APIs and drivers.
+This is the repository consisting of some small projects, where I started to learn how to implement some ESP32's peripherals, such as GPIO, LEDC, ADC, etc. in ESP-IDF environment using built-in APIs and drivers.
 
 ---
 
