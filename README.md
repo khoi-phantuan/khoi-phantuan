@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems and IoT** specialization.
-- 📚 What I have learnt:
+- 📚 Existing related knowledge:
   - Academic:
     - Introduction to Digital Circuit, 
     - Computer Architecture, 
@@ -25,7 +25,7 @@
   - Self-study:
     - ESP32's peripherals (implementing in ESP-IDF environment): GPIO, LEDC PWM, ADC, Interrupt.
     - Communication between ESP32 and DHT11.
-- 🌱 What I am about to learn:
+- 🌱 Upcoming learning:
   - Academic:
     - Computer Architecture Practice, 
     - Digital Logic Design.
