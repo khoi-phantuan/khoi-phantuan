@@ -30,10 +30,10 @@
     - Computer Architecture Practice, 
     - Digital Logic Design.
   - Self-study:
-    - Programming Fundamentals *(learn from the basics)*,
-    - C Programming *(learn from the basics)*,
+    - Embedded Programming Fundamentals *(learn from scratch)*,
+    - C Programming *(learn from scratch)*,
     - Getting started with STM32 programming (STM32CubeMX, STM32CubeIDE, SWD/GDB).
-- 🤝 Looking to collaborate on and learn from the experience: Embedded Software / IoT Smart Home / IoT Smart City projects.
+- 🤝 Looking to collaborate on and learn from experience: Embedded Software / IoT Smart Home / IoT Smart City projects.
 - 📫 Reach me at: 24520867@gm.uit.edu.vn / https://linkedin.com/in/khoi-phantuan
 
 ---
