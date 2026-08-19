@@ -16,12 +16,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems and IoT** specialization.
-- 🔭 Currently working on: **I2C communication with BMP280 sensor using ESP-IDF environment**.
+<!-- - 🔭 Currently working on: -->
 - 🌱 Currently self-learning: 
-  - **ESP32's basic communication** and **FreeRTOS** (ESP-IDF): GPIO, LEDC, ADC, etc.
-  - Some basic hardware debugging skills.
+  - Embedded Programming Fundamentals,
+  - Programming Language: C.
 - 🤝 Looking to collaborate on and learn from the experience: Embedded Software / IoT Smart Home / IoT Smart City projects.
-- 💬 Ask me about: ESP32's GPIO, LEDC, ADC, Interrupt.
+<!-- 💬 Ask me about: ESP32's GPIO, LEDC, ADC, Interrupt. -->
 - 📫 Reach me at: 24520867@gm.uit.edu.vn / https://linkedin.com/in/khoi-phantuan
 
 ---
@@ -55,7 +55,7 @@
 ### 🚀 Featured Projects
 
 **[ESP32-exploration](https://github.com/khoi-phantuan/ESP32-exploration.git)**  
-This is the big repo consisting of many small projects, where I started to learn about some basic peripherals and communication of ESP32, and how to immplement them in ESP-IDF environment using available APIs and libraries.
+This is the repo consisting of some small projects, where I started to learn how to immplement some ESP32's peripherals, such as GPIO, LEDC, ADC, etc. in ESP-IDF environment using built-in APIs and drivers.
 
 ---
 
