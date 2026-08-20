@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Khôi 👋</h1>
 
-<h3 align="center">3rd-year Computer Engineering student | Aspiring Embedded Systems and IoT</h3>
+<h3 align="center">3rd-year Computer Engineering student | Aspiring Embedded Systems & IoT</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khoi-phantuan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -15,26 +15,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems and IoT** specialization.
-- 📚 Existing related knowledge:
-  - Academic:
-    - Introduction to Digital Circuit, 
-    - Computer Architecture, 
-    - Operating System, 
-    - Wireless Network Embedded System.
-  - Self-study:
-    - ESP32's peripherals (implementing in ESP-IDF environment): GPIO, LEDC PWM, ADC, Interrupt.
-    - Communication between ESP32 and DHT11.
-- 🌱 Upcoming learning:
-  - Academic:
-    - Computer Architecture Practice, 
-    - Digital Logic Design.
-  - Self-study:
-    - Embedded Programming Fundamentals *(learn from scratch)*,
-    - C Programming *(learn from scratch)*,
-    - Getting started with STM32 programming (STM32CubeMX, STM32CubeIDE, SWD/GDB).
-- 🤝 Looking to collaborate on and learn from experience: Embedded Software / IoT Smart Home / IoT Smart City projects.
-- 📫 Reach me at: 24520867@gm.uit.edu.vn / https://linkedin.com/in/khoi-phantuan
+- 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems & IoT** specialization.
+- 🔭 Currently working on: **STM32 basic programming and workflow**.
+- 🌱 Currently learning: 
+  - **C Programming**,
+  - **Embedded Programming Fundamentals**.
+- 🤝 Looking to collaborate on and learn from experience: **Embedded Systems & IoT projects**.
+- 💬 Ask me about: **Implementing basic ESP32 peripherals in ESP-IDF environment**.
+- 📫 Reach me at: 
+    - **Email**: 24520867@gm.uit.edu.vn
+    - **LinkedIn**: https://linkedin.com/in/khoi-phantuan
 
 ---
 
@@ -66,7 +56,7 @@
 ### 🚀 Featured Projects
 
 **[ESP32-exploration](https://github.com/khoi-phantuan/ESP32-exploration.git)**  
-This is the repository consisting of some small projects, where I started to learn how to implement some ESP32's peripherals, such as GPIO, LEDC, ADC, etc. in ESP-IDF environment using built-in APIs and drivers.
+A collection of small projects where I explored ESP32 peripherals such as GPIO, LEDC, ADC, etc. using ESP-IDF's built-in APIs and drivers.
 
 ---
 
