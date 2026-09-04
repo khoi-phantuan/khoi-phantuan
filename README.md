@@ -16,12 +16,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year student at **UIT** (University of Information Technology - HCMC National University), majoring in **Computer Engineering** and pursuing **Embedded Systems & IoT** specialization.
-- 🔭 Currently working on: **STM32 basic programming and workflow**.
+<!-- - 🔭 Currently working on: **STM32 basic programming and workflow**. -->
 - 🌱 Currently learning: 
-  - **C and Embedded C Programming**,
-  - **Embedded Programming Fundamentals**.
+  - **C/Embedded C Programming**,
 - 🤝 Looking to collaborate on and learn from experience: **Embedded Systems & IoT projects**.
-- 💬 Ask me about: **Implementing basic ESP32 peripherals in ESP-IDF environment**.
+<!-- - 💬 Ask me about: **Implementing basic ESP32 peripherals in ESP-IDF environment**. -->
 - 📫 Reach me at: 
     - **Email**: 24520867@gm.uit.edu.vn
     - **LinkedIn**: https://linkedin.com/in/khoi-phantuan
