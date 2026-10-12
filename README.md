@@ -18,8 +18,8 @@
 ### 👨‍💻 Giới thiệu
 
 - 🎓 Mình là sinh viên khóa 2024, thuộc ngành **Kỹ thuật máy tính** - **Đại học Công nghệ Thông tin - ĐHQG TP.HCM** (UIT). Chuyên ngành mình đang theo đuổi là **Hệ thống nhúng và IoT**.
-- 🧠 Phương pháp học tập của mình: Luôn cố gắng hiểu được bản chất của vấn đề trong phạm vi môn học. Mình cũng có thói quen tự tập giải thích lại kiến thức mà mình vừa mới hiểu trong đầu. Vì vậy, các repo xuất hiện ở đây chính là nhật ký học tập của mình, không phải là "nơi nộp bài".
-- 🤝 Hiện tại, mình đang tìm kiếm cơ hội được làm việc cùng trong các dự án **Hệ thống nhúng và IoT**, để học hỏi kinh nghiệm từ các bạn/anh/chị đi trước.
+- 🧠 Phương pháp học tập của mình: Luôn cố gắng hiểu được bản chất của vấn đề trong phạm vi môn học. Mình cũng có thói quen tự nhẩm để giải thích lại kiến thức vừa học được trong đầu.
+- 🤝 Hiện tại, mình vẫn đang học thêm kiến thức để hướng đến cơ hội hợp tác trong các dự án **Hệ thống nhúng và IoT** sau này.
 
 ---
 
@@ -52,26 +52,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat&logo=platformio&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat&logo=arduino&logoColor=white">
-</p>
-
----
-
-### 🚀 Dự án nổi bật
-
-**[advanced-iot-technology](https://github.com/khoi-phantuan/advanced-iot-technology)**  
-Nhật ký thực hành môn **Công nghệ Internet of Things hiện đại** (NT532), bắt đầu từ nền tảng Arduino cơ bản và hướng đến giải pháp IoT hoàn chỉnh qua 6 lab. Mình ghi lại không chỉ việc đã làm mà còn cả lý do vì sao mỗi bước lại chạy được.
-
-**[esp32-exploration](https://github.com/khoi-phantuan/ESP32-exploration)**  
-10 bài thực hành mà mình đã làm trong quá trình tự học một số kiến thức về **ESP-IDF**: GPIO, PWM (LEDC), ADC, interrupt và cảm biến DHT11.
-
-Ngoài ra, repo thực hành cho các môn học khác trong học kỳ này cũng đã được mình ghim bên dưới. Mình cũng đang bổ sung dần nội dung README cho các bài lab.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-khoi14.vercel.app/api?username=khoi-phantuan&show_icons=true&theme=default" alt="GitHub stats" />
 </p>
 
 ---
